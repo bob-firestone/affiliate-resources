@@ -1,11 +1,16 @@
 #### FIRESTONE JOB INTERVIEW ANSWERS - Affiliate Resources
 # README - What's in this Affiliate Resources package
 
+<img src="INTERVIEW-bob-firestone-profile-pic-2024-800x800.jpg" width="250" height="auto">
+
+
 ### Here is the complete .zip affiliate resources as promised.
  
 Dear Affiliate,
 
-Here are some resources to help promote my ClickBank product "The Ultimate Guide to Job Interview Answers" - you make $20 per sale.
+Here are some resources to help promote my ClickBank product:
+
+**"The Ultimate Guide to Job Interview Answers"** - you make $20 per sale.
 
 - Pitch page: https://job-interview-answers.com
 - ClickBank Vendor ID: interview
@@ -29,7 +34,7 @@ These are the resource files contained in this .zip:
 - 14 images, plus image URLs on a CDN
 
 
-### ------TECHNICAL-NOTES-FOR-HOPLINKS-------
+### TECHNICAL-NOTES-FOR-HOPLINKS
 
 Your ClickBank HopLink should be formed like this:
 
@@ -52,7 +57,7 @@ Hey, do you want me to do anything technically to my site to make it work better
 
 ---
 
-Here's a few HEADLINES for you to choose from:
+*Here's a few HEADLINES for you to choose from:*
 
 #### “Job Interview? Eliminate Fear and Showcase Your Value w/ 177 Pre-Prepared Job Interview Answers To Customize & Get Confident. Get Prepared w/ this Remarkable Instant Download! (see Samples)”
 
@@ -64,7 +69,7 @@ Here's a few HEADLINES for you to choose from:
 
 #### “Don't Be Caught Off Guard! Get Ready for Curveball Job Interview Questions – Download 177 Pre-Prepared Behavioral Interview Answers To Use To Get Hired (see Samples).”
 
-You can use any of these headlines anywhere you want. Mix and match, remix, whatever.
+- You can **use any of these headlines** anywhere you want. Yours to swipe. Mix and match, remix, whatever.
 
 ---
 
