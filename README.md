@@ -1,5 +1,5 @@
 #### BOB FIRESTONE's JOB INTERVIEW ANSWERS - Affiliate Resources
-# README - What's in this Affiliate Resources package?
+# README - What's in this .zip Affiliate Resources for "Job Interview Answers"?
 
 <img src="https://d2h2op2rcwvj4c.cloudfront.net/images-public/INTERVIEW-bob-firestone-profile-pic-2024-800x800.jpg" width="120" height="auto">
 
@@ -8,7 +8,7 @@
 
 📦 https://job-interview-answers.com/downloads/INTERVIEW-affiliate-resources-20240512.zip
 
-
+⇧⇧ Grab your .zip there.
  
 Dear Affiliate,
 
