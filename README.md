@@ -27,7 +27,7 @@ These are the resource files contained in this .zip:
 - 14 images, plus image URLs on a CDN
 
 
-### ------TECHNICAL-NOTES---------------------
+### ------TECHNICAL-NOTES-FOR-HOPLINKS-------
 
 Your ClickBank HopLink should be formed like this:
 
@@ -48,8 +48,21 @@ If you want, I have ClickBank's "Direct Offer Tracking" set up, so you can promo
 
 Hey, do you want me to do anything technically to my site to make it work better for you?? just email me: bob@bobfirestone.net
 
+---
 
-------TECHNICAL-NOTE-ABOUT-IMAGES----------
+### Here's a few HEADLINES for you to choose from:
+
+#### “Job Interview? Eliminate Fear and Showcase Your Value w/ 177 Pre-Prepared Job Interview Answers To Customize & Get Confident. Get Prepared w/ this Remarkable Instant Download! (see Samples)”
+
+#### “Say Goodbye To Interview Anxiety & Be Your Best Self: Download 177 Pre-Prepared Job Interview Answers To Use To Get Hired! (see Samples)”
+
+#### “Don’t Get Embarrassed … Master Your Interview Skills In Advance! – Get Their Heads Nodding w/ These 177 Pre-Prepared Job Interview Answers To Use To Get Hired (Instant Download)”
+
+#### “Calm Interview Nerves, Boost Your Confidence, & Be Your Best Self in Your Interview: Download 177 Pre-Prepared Job Interview Answers To Use To Get Hired … Time’s Running Out – Act Now & Get Ready For The Big Day!”
+
+#### “Don't Be Caught Off Guard! Get Ready for Curveball Job Interview Questions – Download 177 Pre-Prepared Behavioral Interview Answers To Use To Get Hired (see Samples).”
+
+### ------TECHNICAL-NOTE-ABOUT-IMAGES----------
 
 To make the images look their best on your site, scale them down in your HTML, not in your image editor. For example, the image `INTERVIEW-cover-on-orange-landscape-OG-1200x675.png` is 1200x675px — but you can scale it smaller in your HTML image tag by HALVING the width, like this:
 
@@ -57,7 +70,7 @@ To make the images look their best on your site, scale them down in your HTML, n
 
 Now it displays at half the size (600 width instead of 1200) so with this code you are scaling the image by 50%, making it look SHARPER and BETTER on your page.
 
-### ANOTHER EXAMPLE
+#### ANOTHER EXAMPLE
 
 Please don't scale down my profile pic in your image editor, scale it in the HTML, like this:
 
@@ -91,23 +104,7 @@ Use any or all of these. You can link directly to my fast CDN:
 
 Use can use these images anywhere in your marketing, or anywhere on the web.
 
-
-------A-FEW-HEADLINES-----------------
-
-### Here's a few HEADLINES for you to choose from:
-
-“Job Interview? Eliminate Fear and Showcase Your Value w/ 177 Pre-Prepared Job Interview Answers To Customize & Get Confident. Get Prepared w/ this Remarkable Instant Download! (see Samples)”
-
-“Say Goodbye To Interview Anxiety & Be Your Best Self: Download 177 Pre-Prepared Job Interview Answers To Use To Get Hired! (see Samples)”
-
-“Don’t Get Embarrassed … Master Your Interview Skills In Advance! – Get Their Heads Nodding w/ These 177 Pre-Prepared Job Interview Answers To Use To Get Hired (Instant Download)”
-
-“Calm Interview Nerves, Boost Your Confidence, & Be Your Best Self in Your Interview: Download 177 Pre-Prepared Job Interview Answers To Use To Get Hired … Time’s Running Out – Act Now & Get Ready For The Big Day!”
-
-“Don't Be Caught Off Guard! Get Ready for Curveball Job Interview Questions – Download 177 Pre-Prepared Behavioral Interview Answers To Use To Get Hired (see Samples).”
-
-
-### ------MORE--------------------------
+### ------NEED-HELP?--------------------
 
 Need affiliate support?
 
@@ -128,7 +125,3 @@ PS: Don't forget, there are 4 more text files in this .zip for you to look at, p
 - `/images` - 14 images you can use
 
 ---
-
-
-  
-
