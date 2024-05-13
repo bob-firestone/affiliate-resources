@@ -1,7 +1,7 @@
 #### FIRESTONE JOB INTERVIEW ANSWERS - Affiliate Resources
 # README - What's in this Affiliate Resources package
 
-<img src="INTERVIEW-bob-firestone-profile-pic-2024-800x800.jpg" width="250" height="auto">
+<img src="https://d2h2op2rcwvj4c.cloudfront.net/images-public/INTERVIEW-bob-firestone-profile-pic-2024-800x800.jpg" width="250" height="auto">
 
 
 ### Here is the complete .zip affiliate resources as promised.
