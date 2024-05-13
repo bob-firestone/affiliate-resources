@@ -4,7 +4,11 @@
 <img src="https://d2h2op2rcwvj4c.cloudfront.net/images-public/INTERVIEW-bob-firestone-profile-pic-2024-800x800.jpg" width="120" height="auto">
 
 
-### ✅ Download here: the complete .zip affiliate resources as promised.
+### ✅ Download here, the complete .zip affiliate resources as promised:
+
+📦 https://job-interview-answers.com/downloads/INTERVIEW-affiliate-resources-20240512.zip
+
+
  
 Dear Affiliate,
 
@@ -141,9 +145,9 @@ PS: Don't forget, there are 4 more text files in the .zip for you to look at, pl
 - INTERVIEW-ppc-ads-and-keywords.md
 - 14 images you can use
 
-### ✅ Download the .zip here: INTERVIEW-affiliate-resources-20240512.zip
+### ✅ Download the .zip here:
 
-https://job-interview-answers.com/downloads/INTERVIEW-affiliate-resources-20240512.zip
+📦 https://job-interview-answers.com/downloads/INTERVIEW-affiliate-resources-20240512.zip
 
 
 ---
