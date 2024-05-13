@@ -118,18 +118,22 @@ Use can use these images anywhere in your marketing, or anywhere on the web.
 ### ------NEED-HELP?--------------------
 
 ```
+
 Need affiliate support?
 
-I want to hear from you! — I offer professionalism, friendship, and personalized support, so let me know what you need to help you make more conversions.
+I want to hear from you! — I offer professionalism, friendship,
+and personalized support, so let me know what you need to help
+you make more conversions.
 
-Email me any time!
+Email me any time.
 
 Sincerely, 
 
 Bob Firestone | bob@bobfirestone.net
+
 ```
 
-PS: Don't forget, there are 4 more text files in this .zip for you to look at, plus 14 images!
+PS: Don't forget, there are 4 more text files in the .zip for you to look at, plus 14 images!
 
 - INTERVIEW-email-marketing-messages.md
 - INTERVIEW-headlines-and-copywriting.md
