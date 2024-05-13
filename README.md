@@ -4,7 +4,7 @@
 <img src="https://d2h2op2rcwvj4c.cloudfront.net/images-public/INTERVIEW-bob-firestone-profile-pic-2024-800x800.jpg" width="120" height="auto">
 
 
-### Download here: the complete .zip affiliate resources as promised.
+### ✅ Download here: the complete .zip affiliate resources as promised.
  
 Dear Affiliate,
 
@@ -69,7 +69,7 @@ Hey, do you want me to do anything technically to my site to make it work better
 
 ## “Don't Be Caught Off Guard! Get Ready for Curveball Job Interview Questions – Download 177 Pre-Prepared Behavioral Interview Answers To Use To Get Hired (see Samples).”
 
-- You can **use any of these headlines** anywhere you want. Yours to swipe. Mix and match, remix, whatever.
+✅ You can **use any of these headlines** anywhere you want. Yours to swipe. Mix and match, remix, whatever.
 
 ---
 
