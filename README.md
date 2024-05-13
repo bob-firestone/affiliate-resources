@@ -50,7 +50,7 @@ Hey, do you want me to do anything technically to my site to make it work better
 
 ---
 
-### Here's a few HEADLINES for you to choose from:
+Here's a few HEADLINES for you to choose from:
 
 #### “Job Interview? Eliminate Fear and Showcase Your Value w/ 177 Pre-Prepared Job Interview Answers To Customize & Get Confident. Get Prepared w/ this Remarkable Instant Download! (see Samples)”
 
@@ -62,6 +62,10 @@ Hey, do you want me to do anything technically to my site to make it work better
 
 #### “Don't Be Caught Off Guard! Get Ready for Curveball Job Interview Questions – Download 177 Pre-Prepared Behavioral Interview Answers To Use To Get Hired (see Samples).”
 
+You can use any of these headlines anywhere you want. Mix and match, remix, whatever.
+
+---
+
 ### ------TECHNICAL-NOTE-ABOUT-IMAGES----------
 
 To make the images look their best on your site, scale them down in your HTML, not in your image editor. For example, the image `INTERVIEW-cover-on-orange-landscape-OG-1200x675.png` is 1200x675px — but you can scale it smaller in your HTML image tag by HALVING the width, like this:
@@ -70,7 +74,7 @@ To make the images look their best on your site, scale them down in your HTML, n
 
 Now it displays at half the size (600 width instead of 1200) so with this code you are scaling the image by 50%, making it look SHARPER and BETTER on your page.
 
-#### ANOTHER EXAMPLE
+#### ANOTHER IMAGE TAG EXAMPLE
 
 Please don't scale down my profile pic in your image editor, scale it in the HTML, like this:
 
