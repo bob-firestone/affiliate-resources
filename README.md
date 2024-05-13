@@ -8,7 +8,7 @@
  
 Dear Affiliate,
 
-Here are some resources to help promote my ClickBank product:
+Here are some resources to help promote my ClickBank product,
 
 **"The Ultimate Guide to Job Interview Answers"** - you make $20 per sale.
 
@@ -20,11 +20,11 @@ Here are some resources to help promote my ClickBank product:
 
 The product & the website are NEWLY UPDATED for 2024. And it's been selling steadily on ClickBank since 2004. This high-converting "evergreen" offer converts between 4–8% on targeted traffic. Affiliates are seeing EPCs as high as $1.67 per click.
 
-The commission rate is set at 61%, which earns you $20 per sale.
+The commission rate is set **at 61%, which earns you $20 per sale**.
 
 If you have career, jobs, or self-improvement traffic, then this product is worth promoting.
 
-These are the resource files contained in this .zip:
+These are **the resource files contained in this .zip**:
 
 - INTERVIEW-README.md (this file)
 - INTERVIEW-email-marketing-messages.md
@@ -117,6 +117,7 @@ Use can use these images anywhere in your marketing, or anywhere on the web.
 
 ### ------NEED-HELP?--------------------
 
+```
 Need affiliate support?
 
 I want to hear from you! — I offer professionalism, friendship, and personalized support, so let me know what you need to help you make more conversions.
@@ -126,6 +127,7 @@ Email me any time!
 Sincerely, 
 
 Bob Firestone | bob@bobfirestone.net
+```
 
 PS: Don't forget, there are 4 more text files in this .zip for you to look at, plus 14 images!
 
