@@ -53,11 +53,13 @@ Once encrypted, your HopLink might look something like this:
 https://dcb8e1n7uk1rel69sjvbi6sx1s.hop.clickbank.net
 (ClickBank Encrypts all HopLinks)
 
-Learn more about HopLinks: https://support.clickbank.com/hc/en-us/articles/220365867-HopLinks-Guide, and here TLDR: https://monetizedfuture.com/how-to-create-clickbank-hoplink/
+Learn more about HopLinks: https://support.clickbank.com/hc/en-us/articles/220365867-HopLinks-Guide, and here form a more basic TLDR: https://monetizedfuture.com/how-to-create-clickbank-hoplink/
 
 If you want, I have ClickBank's "Direct Offer Tracking" set up, so you can promote using either a traditional HopLink, or "Direct Tracking" – which has a few advantages. Direct Tracking is not replacing the ClickBank HopLink. HopLinks are still a highly reliable tracking mechanism. You can use either or both. Learn more: https://support.clickbank.com/hc/en-us/articles/19034135835156-Direct-Offer-Tracking-for-Sellers
 
-Hey, do you want me to do anything technically to my site to make it work better for you?? just email me: bob@bobfirestone.net
+Hey, do you want me to do anything technically to my site to make it work better for you??
+
+just email me: bob@bobfirestone.net
 
 ---
 
