@@ -30,7 +30,7 @@ If you have career, jobs, or self-improvement traffic, then this product is wort
 
 These are **the resource files contained in this .zip**:
 
-- INTERVIEW-README.md (this file)
+- README.md (this file)
 - INTERVIEW-email-marketing-messages.md
 - INTERVIEW-headlines-and-copywriting.md
 - INTERVIEW-kirkus-independent-book-review.md
