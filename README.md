@@ -4,7 +4,7 @@
 <img src="https://d2h2op2rcwvj4c.cloudfront.net/images-public/INTERVIEW-bob-firestone-profile-pic-2024-800x800.jpg" width="120" height="auto" img-border=".5px">
 
 
-### Here is the complete .zip affiliate resources as promised.
+### Download here: the complete .zip affiliate resources as promised.
  
 Dear Affiliate,
 
