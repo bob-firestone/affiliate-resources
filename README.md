@@ -1,7 +1,7 @@
 #### FIRESTONE JOB INTERVIEW ANSWERS - Affiliate Resources
 # README - What's in this Affiliate Resources package
 
-<img src="https://d2h2op2rcwvj4c.cloudfront.net/images-public/INTERVIEW-bob-firestone-profile-pic-2024-800x800.jpg" width="120" height="auto" img-border=".5px">
+<img src="https://d2h2op2rcwvj4c.cloudfront.net/images-public/INTERVIEW-bob-firestone-profile-pic-2024-800x800.jpg" width="120" height="auto">
 
 
 ### Download here: the complete .zip affiliate resources as promised.
@@ -59,15 +59,15 @@ Hey, do you want me to do anything technically to my site to make it work better
 
 *Here's a few HEADLINES for you to choose from:*
 
-#### “Job Interview? Eliminate Fear and Showcase Your Value w/ 177 Pre-Prepared Job Interview Answers To Customize & Get Confident. Get Prepared w/ this Remarkable Instant Download! (see Samples)”
+## “Job Interview? Eliminate Fear and Showcase Your Value w/ 177 Pre-Prepared Job Interview Answers To Customize & Get Confident. Get Prepared w/ this Remarkable Instant Download! (see Samples)”
 
-#### “Say Goodbye To Interview Anxiety & Be Your Best Self: Download 177 Pre-Prepared Job Interview Answers To Use To Get Hired! (see Samples)”
+## “Say Goodbye To Interview Anxiety & Be Your Best Self: Download 177 Pre-Prepared Job Interview Answers To Use To Get Hired! (see Samples)”
 
-#### “Don’t Get Embarrassed … Master Your Interview Skills In Advance! – Get Their Heads Nodding w/ These 177 Pre-Prepared Job Interview Answers To Use To Get Hired (Instant Download)”
+## “Don’t Get Embarrassed … Master Your Interview Skills In Advance! – Get Their Heads Nodding w/ These 177 Pre-Prepared Job Interview Answers To Use To Get Hired (Instant Download)”
 
-#### “Calm Interview Nerves, Boost Your Confidence, & Be Your Best Self in Your Interview: Download 177 Pre-Prepared Job Interview Answers To Use To Get Hired … Time’s Running Out – Act Now & Get Ready For The Big Day!”
+## “Calm Interview Nerves, Boost Your Confidence, & Be Your Best Self in Your Interview: Download 177 Pre-Prepared Job Interview Answers To Use To Get Hired … Time’s Running Out – Act Now & Get Ready For The Big Day!”
 
-#### “Don't Be Caught Off Guard! Get Ready for Curveball Job Interview Questions – Download 177 Pre-Prepared Behavioral Interview Answers To Use To Get Hired (see Samples).”
+## “Don't Be Caught Off Guard! Get Ready for Curveball Job Interview Questions – Download 177 Pre-Prepared Behavioral Interview Answers To Use To Get Hired (see Samples).”
 
 - You can **use any of these headlines** anywhere you want. Yours to swipe. Mix and match, remix, whatever.
 
@@ -139,6 +139,6 @@ PS: Don't forget, there are 4 more text files in the .zip for you to look at, pl
 - INTERVIEW-headlines-and-copywriting.md
 - INTERVIEW-kirkus-independent-book-review.md
 - INTERVIEW-ppc-ads-and-keywords.md
-- `/images` - 14 images you can use
+- 14 images you can use
 
 ---
