@@ -1,5 +1,7 @@
 #### FIRESTONE JOB INTERVIEW ANSWERS - Affiliate Resources
 # README - What's in this Affiliate Resources package
+
+### Here is the complete .zip affiliate resources as promised.
  
 Dear Affiliate,
 
@@ -66,7 +68,7 @@ You can use any of these headlines anywhere you want. Mix and match, remix, what
 
 ---
 
-### ------TECHNICAL-NOTE-ABOUT-IMAGES----------
+### TECHNICAL-NOTE-ABOUT-IMAGES
 
 To make the images look their best on your site, scale them down in your HTML, not in your image editor. For example, the image `INTERVIEW-cover-on-orange-landscape-OG-1200x675.png` is 1200x675px — but you can scale it smaller in your HTML image tag by HALVING the width, like this:
 
