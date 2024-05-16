@@ -1,4 +1,8 @@
 #### BOB FIRESTONE's JOB INTERVIEW ANSWERS - Affiliate Resources
+
+<img src="https://d2h2op2rcwvj4c.cloudfront.net/images-public/INTERVIEW-cover-on-orange-landscape-OG-1200x675.png" width="auto">
+
+
 # README - What's in this .zip Affiliate Resources for "Job Interview Answers"?
 
 <img src="https://d2h2op2rcwvj4c.cloudfront.net/images-public/INTERVIEW-bob-firestone-profile-pic-2024-800x800.jpg" width="120" height="auto">
