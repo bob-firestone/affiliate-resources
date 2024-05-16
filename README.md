@@ -1,4 +1,4 @@
-#### BOB FIRESTONE's JOB INTERVIEW ANSWERS - Affiliate Resources
+#### ✔ BOB FIRESTONE's JOB INTERVIEW ANSWERS - Affiliate Resources
 
 <img src="https://d2h2op2rcwvj4c.cloudfront.net/images-public/INTERVIEW-cover-on-orange-landscape-OG-1200x675.png" width="auto">
 
